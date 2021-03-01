@@ -6,3 +6,6 @@ Projet ajax d'une boutique
 
 
 URL en attente de la note serveurs
+
+
+https://boutique.maxence-schroeder.xyz
