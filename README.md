@@ -24,3 +24,7 @@ la page web termandcondition.php affiche les termnes et condition de la boutique
 
 url
 https://boutique.maxence-schroeder.xyz
+
+video demontrant tout 
+
+https://www.youtube.com/watch?v=crjfiLtl5-k
