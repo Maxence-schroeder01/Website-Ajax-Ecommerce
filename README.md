@@ -12,5 +12,7 @@ les librairie ajax que j'ai uttiliser sont picture zoom pour faire un effect zoo
 
 https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js
 
+j'ai aussi prit comme sources des librairie comme jquery :https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+
 url
 https://boutique.maxence-schroeder.xyz
