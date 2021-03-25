@@ -45,7 +45,7 @@ button {
 <div>
   <img src="https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/06/shopping-online.jpg" width="600" height="400" alt="Maxence">
   <br>
-  <button id="request">En apprendre plus sur notre entreprise</button>
+  <input id="request" type="image" name="submit" src="https://images.emojiterra.com/openmoji/v12.2/512px/2b07.png" border="0" alt="Submit" style="width: 50px;" />
   <div id="bio"></div>
 </div>
 
