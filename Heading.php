@@ -32,7 +32,8 @@
                     <button class="navbar-toggler light float-xs-right hidden-sm-up" type="button" data-toggle="collapse" data-target="#nvbar"></button>
                     <div id="nvbar" class="collapse navbar-toggleable-xs">
                         <ul class="nav navbar-nav float-sm-right ">
-                            <li class="nav-item"><a class="nav-link" href="index.PHP">Acceuil</a></li>
+                        <li class="nav-item"><a class="nav-link" href="info.php">Notre boite</a></li>
+                            <li class="nav-item"><a class="nav-link" href="index.php">Acceuil</a></li>
                             <div class="col-md-6 text-xs-right"> <span class="btn btn-success" data-toggle="modal" data-target="#cart">(<span class="items text-dark"></span>)<img alt="cadie" src="https://www.icone-png.com/png/14/13561.png" width="25" height="25" ></span></div>
                         </ul>
                     </div>
