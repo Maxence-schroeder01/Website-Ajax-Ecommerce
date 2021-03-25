@@ -22,6 +22,8 @@ la page web Heading.php permet de faire suivre partie la barre du menu en haut a
 
 la page web termandcondition.php affiche les termnes et condition de la boutique comme il est legal de les afficher normalement
 
+la page web info.php te donne toute les info sur notre entreprise avec un icone cache par une image donc du dhtml et avec du javascipt vanilla total pour la transformer en text
+
 url
 https://boutique.maxence-schroeder.xyz
 
